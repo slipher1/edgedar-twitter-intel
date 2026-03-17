@@ -2,6 +2,3 @@ fastapi==0.109.0
 uvicorn==0.27.0
 psycopg2-binary==2.9.9
 requests==2.31.0
-textblob==0.17.1
-beautifulsoup4==4.12.2
-aiohttp==3.9.1
